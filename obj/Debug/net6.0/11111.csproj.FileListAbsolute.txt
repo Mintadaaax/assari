@@ -1,0 +1,15 @@
+C:\Users\ACER\Desktop\11111\bin\Debug\net6.0\11111.exe
+C:\Users\ACER\Desktop\11111\bin\Debug\net6.0\11111.deps.json
+C:\Users\ACER\Desktop\11111\bin\Debug\net6.0\11111.runtimeconfig.json
+C:\Users\ACER\Desktop\11111\bin\Debug\net6.0\11111.dll
+C:\Users\ACER\Desktop\11111\bin\Debug\net6.0\11111.pdb
+C:\Users\ACER\Desktop\11111\obj\Debug\net6.0\11111.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\11111\obj\Debug\net6.0\11111.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\11111\obj\Debug\net6.0\11111.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\11111\obj\Debug\net6.0\11111.AssemblyInfo.cs
+C:\Users\ACER\Desktop\11111\obj\Debug\net6.0\11111.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\11111\obj\Debug\net6.0\11111.dll
+C:\Users\ACER\Desktop\11111\obj\Debug\net6.0\refint\11111.dll
+C:\Users\ACER\Desktop\11111\obj\Debug\net6.0\11111.pdb
+C:\Users\ACER\Desktop\11111\obj\Debug\net6.0\11111.genruntimeconfig.cache
+C:\Users\ACER\Desktop\11111\obj\Debug\net6.0\ref\11111.dll
